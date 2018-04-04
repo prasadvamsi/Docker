@@ -28,7 +28,6 @@
   become: yes
   remote_user: ec2-user
 
-
   tasks:
     - name: install update
       command: sudo yum update -y 
