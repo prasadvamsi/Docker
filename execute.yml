@@ -9,7 +9,7 @@
         region: us-east-1
         keypair: aws practice
         instance_type: t2.micro
-        image: ami-1853ac65
+        image: ami-cfe4b2b0
         vpc_subnet_id: subnet-714fe15e
         assign_public_ip: yes
         wait: yes
