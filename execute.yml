@@ -42,5 +42,5 @@
     - name: docker images
       command: docker pull centos:6.9
     - name: creating docker conatiner
-      command: docker run -dti --name cnt2 centos:6.0
+      command: docker run -dti --name cnt3 centos:6.0
 
